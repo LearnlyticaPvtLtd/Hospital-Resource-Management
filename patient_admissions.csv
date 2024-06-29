@@ -1,0 +1,6 @@
+admission_id,patient_id,department,admission_date,discharge_date
+1,101,Cardiology,2024-01-01,2024-01-10
+2,102,Neurology,2024-01-05,2024-01-12
+3,103,Cardiology,2024-01-07,2024-01-15
+4,104,Orthopedics,2024-01-10,2024-01-20
+5,105,Cardiology,2024-01-12,2024-01-18

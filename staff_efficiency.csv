@@ -1,0 +1,6 @@
+staff_id,department,staff_role,efficiency_rating
+1,Cardiology,Doctor,4.5
+2,Neurology,Nurse,4.2
+3,Orthopedics,Surgeon,4.8
+4,Cardiology,Doctor,4.7
+5,Cardiology,Nurse,4.3

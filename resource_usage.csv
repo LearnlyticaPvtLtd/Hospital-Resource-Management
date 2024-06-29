@@ -1,0 +1,6 @@
+resource_id,department,resource_type,usage_hours
+1,Cardiology,CT_Scan,5
+2,Neurology,MRI,7
+3,Orthopedics,XRay,4
+4,Cardiology,ECG,8
+5,Cardiology,CT_Scan,6
